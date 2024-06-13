@@ -2,11 +2,11 @@
 Age and Gender detector using Machine Learmimg
 
 # To simply run this model:
-Clone this repository
-Run the gui.py file
-Upload the Image you want to detect
-Click on detect button
-View results
+- Clone this repository
+- Run the gui.py file
+- Upload the Image you want to detect
+- Click on detect button
+- View results
 
 # To Run this Model yourself:
 Clone this repository
